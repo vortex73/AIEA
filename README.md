@@ -29,9 +29,9 @@ main.py:<br />
 > TomTom API Key<br />
 
 -----TO RUN-----
-before running main.py change the path location in the code for it to store the images
+*before running main.py change the path location in the code for it to store the images*
 
-run main.py
+*run main.py*
 
 
-** Conceptualised and executed by Aditya, Ekanshh, Kaustubh, Narayan and Rohit **
+**##Conceptualised and executed by Aditya, Ekanshh, Kaustubh, Narayan and Rohit**
