@@ -28,7 +28,7 @@ main.py:<br />
 
 > TomTom API Key<br />
 
-##TO RUN<br />
+## TO RUN<br />
 *before running main.py change the path location in the code for it to store the images*
 
 *run main.py*
