@@ -6,27 +6,27 @@
 Prerequisite modules and  API Keys:
 
 main.py:<br />
-> keyboard module
+> keyboard module<br />
 
-whatsapp.py:
+> whatsapp.py:<br />
 
-[x]TWILIO module
+> TWILIO module<br />
 
-watson_api.py:
+> watson_api.py:<br />
 
-[x] ibm_watson module
+> ibm_watson module<br />
 
-[x]IAM Authentication module
+> IAM Authentication module<br />
 
-[x]API Key for IBM Watson
+> API Key for IBM Watson<br />
 
-tomtom(1).py:
+> tomtom(1).py:<br />
 
-[x]requests module
+> requests module<br />
 
-[x]configparser module
+> configparser module<br />
 
-[x]TomTom API Key
+> TomTom API Key<br />
 
 -----TO RUN-----
 before running main.py change the path location in the code for it to store the images
