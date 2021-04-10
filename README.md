@@ -5,8 +5,8 @@
 
 Prerequisite modules and  API Keys:
 
-main.py:
-[x] keyboard module
+main.py:<br />
+> keyboard module
 
 whatsapp.py:
 
@@ -34,4 +34,4 @@ before running main.py change the path location in the code for it to store the 
 run main.py
 
 
-**Conceptualised and executed by Aditya, Ekanshh, Kaustubh, Narayan and Rohit **
+** Conceptualised and executed by Aditya, Ekanshh, Kaustubh, Narayan and Rohit **
