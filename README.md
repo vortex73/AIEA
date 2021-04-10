@@ -34,4 +34,4 @@ main.py:<br />
 *run main.py*
 
 
-# Conceptualised and executed by Aditya, Ekanshh, Kaustubh, Narayan and Rohit
+## Conceptualised and executed by Aditya, Ekanshh, Kaustubh, Narayan and Rohit
