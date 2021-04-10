@@ -1,7 +1,7 @@
 # AIEA---IBM
 *It is a project which can identify an accident using (IBM Watson Visual Recognition)from real time footage and send information of the accident like location to the closest hospital via whatsapp*
 
------------##INSTRUCTIONS--------------
+##INSTRUCTIONS
 
 Prerequisite modules and  API Keys:
 
@@ -34,4 +34,4 @@ main.py:<br />
 *run main.py*
 
 
-##**Conceptualised and executed by Aditya, Ekanshh, Kaustubh, Narayan and Rohit**
+###Conceptualised and executed by Aditya, Ekanshh, Kaustubh, Narayan and Rohit
